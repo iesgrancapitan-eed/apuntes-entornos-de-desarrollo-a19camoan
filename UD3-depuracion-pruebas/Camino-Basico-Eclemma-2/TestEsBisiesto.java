@@ -5,7 +5,7 @@ public class TestEsBisiesto {
   public static void main(String[] args) {
     Scanner s = new Scanner(System.in);
 
-    System.out.println("Mete el año: ");
+    System.out.println("Mete el aÃ±o: ");
     int anno = s.nextInt();
 
     if (anno % 4 == 0 && (anno % 100 != 0 || anno % 400 == 0)) {
