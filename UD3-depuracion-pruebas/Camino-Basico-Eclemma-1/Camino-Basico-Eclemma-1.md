@@ -30,8 +30,8 @@ M = 1 + 1 = 2
 ## 3. Caminos independientes. Tabla con las siguientes columnas:
 | Número del camino | Nodos/aristas del camino |  Prueba (valores de las condiciones) | Entrada (variables)  |  Salida (resultado esperado) |
 |:-:|:-:|:-:|:-:|:-:|
-| 1  | 4/3  |  2020 |  Entero (año) |  Cadena de texto |
-| 2  | 4/3  |  2021 |  Entero (año) |  Cadena de texto |
+| 1-2-4-5  | 4/3  |  2020 |  Entero (año) |  Cadena de texto |
+| 1-2-3-5  | 4/3  |  2021 |  Entero (año) |  Cadena de texto |
 
 ## 4. Ficheros .java del código.
 [Archivo .java](./TestEsBisiesto.java)
