@@ -1,4 +1,6 @@
-# Unidad 6: Optimización y documentación:
+# Unidad 3: Depuración y pruebas:
 
-1. [Tarea 4.1 Introduction to GitHub (parte 1).](./introduccion-github-1.md)
-1. [Tarea 4.2 Introduction to GitHub (parte 2).](./introduccion-github-2.md)
+1. [Tipos de pruebas.](./Tipos-de-pruebas.md)
+1. [Modelo V.](#)
+1. [Camino Basico Eclemma 1 (Contar palabras).](./Camino-Basico-Eclemma-1/Camino-Basico-Eclemma-1.md)
+1. [Camino Basico Eclemma 2 (Es bisiesto).](./Camino-Basico-Eclemma-2/Camino-Basico-Eclemma-2.md)
