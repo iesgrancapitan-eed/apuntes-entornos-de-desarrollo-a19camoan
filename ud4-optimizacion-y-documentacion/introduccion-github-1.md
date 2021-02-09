@@ -13,11 +13,11 @@
 ![task4](./4.png)
 
 1. Busca en Wikipedia e indica:
-   1. Qué es GitHub y su relación con Git
+   * Qué es GitHub y su relación con Git
 
       
 
-   1. Compañía dueña de GitHub
+   * Compañía dueña de GitHub
 
       Microsoft
 
