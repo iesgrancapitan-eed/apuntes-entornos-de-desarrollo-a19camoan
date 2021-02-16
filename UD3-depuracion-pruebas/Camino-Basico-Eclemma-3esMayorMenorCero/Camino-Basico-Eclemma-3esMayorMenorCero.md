@@ -21,7 +21,7 @@ M = 8 - 7 + 2 * 1 = 3
 
 ## 3. Caminos independientes. Tabla con las siguientes columnas:
 | Número del camino | Nodos/aristas del camino |  Prueba (valores de las condiciones) | Entrada (variables)  |  Salida (resultado esperado) |
-|:-:|    :-:    |     :-:     |  :-:  |  :-:  |
+|:-:| :-: | :-: | :-: | :-: |
 | 1 | 1-2-4-6-7 | False-False |  0 |  CERO |
 | 2 | 1-2-4-5-7 | False-True |  -100 |  MENOR |
 | 3 | 1-2-3-7   | False-False |  100 |  MAYOR |
