@@ -17,15 +17,15 @@ P = Número de componentes conexos, nodos de salida
 ```
 M = E − N + 2P
 ```
-M = 0 - 0 + 2 * 1 = 0
+M = 8 - 9 + 2 * 1 = 4
 
 ## 3. Caminos independientes. Tabla con las siguientes columnas:
 | Número del camino | Nodos/aristas del camino |  Prueba (valores de las condiciones) | Entrada (variables)  |  Salida (resultado esperado) |
 |:-:| :-: | :-: | :-: | :-: |
-| 1 | 0-0 | False-False | 400 | TRUE |
-| 2 | 0-0 | False-True | 300 | FALSE |
-| 3 | 0-0 | False-False | 416 | TRUE |
-| 3 | 0-0 | False-False | 3 | FALSE |
+| 1 | 1-2-Fin | False-False | 400 | TRUE |
+| 2 | 1-2-Fin | False-True | 300 | FALSE |
+| 3 | 1-2-Fin | False-False | 416 | TRUE |
+| 4 | 1-2-Fin | False | 3 | FALSE |
 
 ## 4. Ficheros .java del código.
 [Archivo .java](./TestEsBisiesto.java)
