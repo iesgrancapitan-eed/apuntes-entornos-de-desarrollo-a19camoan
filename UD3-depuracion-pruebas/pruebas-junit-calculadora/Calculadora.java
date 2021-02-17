@@ -1,5 +1,3 @@
-package com.eed.calculadora;
-
 /**
  * Comportamiento básico de una calculadora
  * 
