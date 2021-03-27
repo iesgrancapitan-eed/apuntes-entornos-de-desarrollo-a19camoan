@@ -10,12 +10,15 @@ public class TestPila {
 	public static void main(String[] args) {
 		Pila<Persona> p = new Pila<Persona>();
 
-
-		p.push(new Persona("a", "a"));
-		p.push(new Persona("b", "b"));
-		p.push(new Persona("c", "c"));
-		p.show();
-
+		try {
+			p.push(new Persona("a", "a"));
+			p.push(new Persona("b", "b"));
+			p.push(new Persona("c", "c"));
+			p.show();
+		} catch (ElementoNullException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
 
 		System.out.println("Cima de la pila: " + p.top());
 

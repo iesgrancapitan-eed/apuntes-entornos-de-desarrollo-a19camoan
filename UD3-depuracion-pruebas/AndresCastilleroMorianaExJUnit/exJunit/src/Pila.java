@@ -25,10 +25,12 @@ public class Pila<T> {
 	 * @param element
 	 *            elemento a añadir
 	 */
-	void push(T element) {
+	void push(T element) throws ElementoNullException {
+		if (element == null) {
+			throw new ElementoNullException();
+		}
 		pila.add(element);
 	}
-
 	/**
 	 * Retira/elimina la cima de la pila
 	 * 
