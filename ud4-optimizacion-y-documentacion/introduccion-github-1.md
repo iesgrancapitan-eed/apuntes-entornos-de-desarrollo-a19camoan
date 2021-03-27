@@ -25,6 +25,7 @@
 Línea de trabajo alterna donde el software puede ser modificado sin riesgos.
 
 ## Qué es una nueva característica en el código (new feature).
+Cuando añadimos una función que no estaba presente en el diseño original lo llamamos "new feature".
 
 ## Qué es un pull request.
 Es una solicitud de merge en la que otros usuarios pueden opinar y sugerir mejoras antes de su implementación.
