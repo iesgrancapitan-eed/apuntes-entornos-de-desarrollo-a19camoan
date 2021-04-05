@@ -19,15 +19,15 @@ El kernel de Linux es un proyecto de software de código abierto con un alcance 
 
 En el 2005, la relación entre la comunidad que desarrollaba el kernel de Linux y la compañía que desarrollaba BitKeeper se vino abajo y la herramienta dejó de ser ofrecida de manera gratuita. Esto impulsó a la comunidad de desarrollo de Linux (y en particular a Linus Torvalds, el creador de Linux) a desarrollar su propia herramienta basada en algunas de las lecciones que aprendieron mientras usaban BitKeeper. Algunos de los objetivos del nuevo sistema fueron los siguientes:
 
-    Velocidad
+- Velocidad
 
-    Diseño sencillo
+- Diseño sencillo
 
-    Gran soporte para desarrollo no lineal (miles de ramas paralelas)
+- Gran soporte para desarrollo no lineal (miles de ramas paralelas)
 
-    Completamente distribuido
+- Completamente distribuido
 
-    Capaz de manejar grandes proyectos (como el kernel de Linux) eficientemente (velocidad y tamaño de los datos)
+- Capaz de manejar grandes proyectos (como el kernel de Linux) eficientemente (velocidad y tamaño de los datos)
 
 Desde su nacimiento en el 2005, Git ha evolucionado y madurado para ser fácil de usar y conservar sus características iniciales.
 
@@ -52,16 +52,16 @@ Desde su nacimiento en el 2005, Git ha evolucionado y madurado para ser fácil d
 
 ## 5. Indica cuáles son los tres estados con los que trabaja Git.
 
-    Confirmado (committed), modificado (modified), y preparado (staged).
+Confirmado (committed), modificado (modified), y preparado (staged).
 
 ## 6. Indica las tres secciones principales de un proyecto Git.
 
-    El directorio de Git (Git directory), el directorio de trabajo (working directory), y el área de preparación (staging area).
+El directorio de Git (Git directory), el directorio de trabajo (working directory), y el área de preparación (staging area).
 
 ## 7. Indica la diferencia entre ficheros rastreados y sin rastrear (tracked y untracked).
 
-    Los archivos rastreados (tracked files en inglés) son todos aquellos archivos que estaban en la última instantánea del proyecto; pueden ser archivos sin modificar, modificados o preparados. Los archivos sin rastrear son todos los demás.
+Los archivos rastreados (tracked files en inglés) son todos aquellos archivos que estaban en la última instantánea del proyecto; pueden ser archivos sin modificar, modificados o preparados. Los archivos sin rastrear son todos los demás.
 
 ## 8. Explica qué es HEAD y su relación con la creación de un nuevo commit.
 
-    El archivo HEAD es una referencia simbólica a la rama donde te encuentras en cada momento. Por referencia simbólica nos referimos a que, a diferencia de una referencia normal, esta contiene un enlace a otra referencia en lugar de un valor SHA-1.
+El archivo HEAD es una referencia simbólica a la rama donde te encuentras en cada momento. Por referencia simbólica nos referimos a que, a diferencia de una referencia normal, esta contiene un enlace a otra referencia en lugar de un valor SHA-1.
