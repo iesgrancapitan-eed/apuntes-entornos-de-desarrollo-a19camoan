@@ -26,44 +26,44 @@
 
 ## 7. Ignora archivos.
 
-![ej7](./img-4.3/7.png)
+Archivo .gitignore
 
 ## 8. Mostrar los cambios: líneas exactas que fueron añadidas y eliminadas. Compara lo que tienes en tu directorio de trabajo con lo que está en el área de preparación.
 
-![ej8](./img-4.3/8.png)
+git diff --staged
 
 ## 9. Mostrar los cambios: líneas exactas que fueron añadidas y eliminadas. Compara tus cambios preparados con la última instantánea confirmada.
 
-![ej9](./img-4.3/9.png)
+git diff --cached
 
 ## 10. Confirma los cambios sin pasar por el área de preparación (a directorio git, committed).
 
-![ej10](./img-4.3/10.png)
+git commit -a
 
 ## 11. Eliminar archivos del directorio de trabajo y del área de preparación.
 
-![ej11](./img-4.3/11.png)
+git rm
 
 ## 12. Renombrar archivos del directorio de trabajo y del área de preparación.
 
-![ej12](./img-4.3/12.png)
+git mv
 
 ## 13. Muestra el historial de confirmaciones.
 
-![ej13](./img-4.3/13png)
+git log
 
 ## 14. Muestra sólo las dos últimas confirmaciones indicando las diferencias introducidas en cada confirmación.
 
-![ej14](./img-4.3/14png)
+git log -p -2
 
 ## 15. Rectifica el último commit.
 
-![ej15](./img-4.3/15png)
+git commit --amend
 
 ## 16. Deshaz un archivo preparado (indicado en git status).
 
-![ej16](./img-4.3/16png)
+git reset HEAD
 
 ## 17. Deshaz un archivo modificado (peligroso) (indicado en git status).
 
-![ej17](./img-4.3/17png)
+git checkout --[nombre del archivo]
