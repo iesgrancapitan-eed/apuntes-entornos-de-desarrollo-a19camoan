@@ -30,10 +30,11 @@ Archivo .gitignore
 
 ## 8. Mostrar los cambios: líneas exactas que fueron añadidas y eliminadas. Compara lo que tienes en tu directorio de trabajo con lo que está en el área de preparación.
 
-git diff --staged
+git dif
 
 ## 9. Mostrar los cambios: líneas exactas que fueron añadidas y eliminadas. Compara tus cambios preparados con la última instantánea confirmada.
 
+git diff --staged
 git diff --cached
 
 ## 10. Confirma los cambios sin pasar por el área de preparación (a directorio git, committed).
