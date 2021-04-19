@@ -17,7 +17,7 @@ git fetch [remote-name]
 ## 6. Descargar objetos y referencias de otro repositorio y los integra
 git push [remote-name]
 
-## 7. Enviar a tu remoto para compartir (permiso de escritura y )
+## 7. Enviar a tu remoto para compartir (necesario permiso de escritura)
 git push [nombre-remoto] [nombre-rama]
 
 ## 8. Inspeccionar un remoto 
