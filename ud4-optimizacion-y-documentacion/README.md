@@ -7,6 +7,7 @@
 1. [Tarea 4.5 Ejercicios interactivos (parte 1).](#)
 1. [Tarea 4.6 Comandos básicos en remoto.](comandos-basicos-remoto.md)
 1. [Tarea 4.7 Practica2. Git. Haciendo una copia en remoto.](https://github.com/iesgrancapitan-eed/practica2-git-haciendo-copia-en-remoto-a19camoan)
+1. [Tarea 4.8 Repositorios remotos y servidores.](./git-remotos-y-servidores.md)
 
 # Unidad 4: Depuración y pruebas:
 
