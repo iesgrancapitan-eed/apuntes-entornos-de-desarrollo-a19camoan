@@ -14,5 +14,7 @@
 ![vsc](./img-4.9/4.png)
 
 ## 6. Desde git Bash actualiza el repositorio local con este nuevo fichero (git add, git commit)
+![cmmiteao](./img-4.9/5.png)
 
 ## 7. Ahora envía los cambios al repositorio remoto (git push)
+![subida](./img-4.9/6.png)
