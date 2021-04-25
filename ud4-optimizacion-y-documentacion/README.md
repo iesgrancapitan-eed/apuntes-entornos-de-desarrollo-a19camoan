@@ -10,7 +10,7 @@
 1. [Tarea 4.8 Repositorios remotos y servidores.](./git-remotos-y-servidores.md)
 1. [Tarea 4.9 Haciendo copia de un repositorio remoto en local.](./git-copia-local-en-remoto.md)
 1. [Tarea 4.10 Conceptos y comandos sobre ramas.](.git-comandos-ramas.md)
-1. [Tarea 4.11 Practica4. Git. Resolviendo un conflicto.](./git-.md)
+1. [Tarea 4.11 Practica4. Git. Resolviendo un conflicto.](./git-resolviendo-conflicto.md)
 1. [Tarea 4.12 Practica5. Git. Creando ramas.](./git-.md)
 
 # Unidad 4: Depuración y pruebas:

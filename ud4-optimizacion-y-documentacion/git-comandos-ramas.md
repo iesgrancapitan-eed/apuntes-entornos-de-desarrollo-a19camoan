@@ -44,9 +44,10 @@ git branch -D [nombre de la rama]
 
 ## 15. Indica qué es una fusión a tres bandas.
 Usado para funciones grandes o cuando varios desarrolladores están trabajando en un proyecto simultáneamente.
+Es un merge en el que hay que usar 3 commits.
 
 ## 16. Indica qué es un conflicto en la fusión o merge conflict.
-Los procesos de fusión pueden no ser fluidos. Si hay modificaciones dispares en una misma porción de un mismo archivo en las dos ramas distintas que pretendes fusionar, Git no será capaz de fusionarlas directamente.
+Los procesos de fusión pueden no ser fluidos. Si hay modificaciones dispares en una misma porción de un mismo archivo en las dos ramas distintas que pretendes fusionar, Git no será capaz de fusionarlas directamente por lo que el usuario deberá editar el contenido o decidir que archivos mantener.
 
 ## 17. Comando que lista todas las ramas de tu repositorio.
 git branch
