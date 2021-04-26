@@ -38,10 +38,10 @@
 ![ej13](./img-4.11/13.png)
 
 ## 14. Realiza una copia a este repositorio remoto.
-![ej14](./img-4.11/14.png)
+[Repositorio](https://github.com/iesgrancapitan-eed/practica4-git-resolviendo-un-conflicto-a19camoan)
 
 ## 15. Recuerda añadir estas instrucciones con los pantallazos en el fichero README.md
-![ej15](./img-4.11/15.png)
+
 
 ## 16. En GitHub entra en Insights/network y visualiza el gráfico del repositorio con los merge y cinco commits.
-![ej16](./img-4.11/16.png)
+![ej16](./img-4.11/14.png)
