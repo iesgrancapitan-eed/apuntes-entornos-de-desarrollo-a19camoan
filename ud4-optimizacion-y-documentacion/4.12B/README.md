@@ -14,6 +14,6 @@
 1. Si se detecta una incidencia en la maestra, se crea una rama de corrección a partir de la maestra.
 1. Una vez que la corrección está completa, se fusiona tanto con la de desarrollo como con la maestra.
 ## 3. Adjunta un pantallazo del comando git log --oneline --decorate --graph --all.
-![git log](./img-4.12/1.png)
+![git log](./1.png)
 ## 4. Una vez subido el repositorio CON TODAS SUS RAMAS, adjunta un pantallazo del apartado de GitHub "Insights"/"Network graph".
-![github graph](./img-4.12/2.png)
+![github graph](./2.png)

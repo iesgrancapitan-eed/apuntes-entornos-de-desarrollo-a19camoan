@@ -5,15 +5,15 @@ Los repositorios remotos son versiones de tu proyecto que están hospedadas en I
 Origin es el nombre abreviado por defecto de repositorios remotos.
 
 ## 3. Servidor Bitbucket. Date de alta en Bitbucket y crea un repositorio Hola Mundo. Manda un pantallazo con el  historial de commits realizados (identificador SHA-1)
-![Commits bitbucket](./img-4.8/1.png)
+![Commits bitbucket](./1.png)
 
 ## 4. Sube a tu servidor Bitbucket un segundo repositorio: el de la última práctica Practica2. Git. Haciendo una copia en remoto. PARA ESO AÑADE UN SEGUNDO REMOTE. Muestra un pantallazo tanto del repositorio en BitBucket como de "git remote" en el repositorio local.
-![Repo local](./img-4.8/2.png)
-![Repo bitbucket](./img-4.8/3.png)
+![Repo local](./2.png)
+![Repo bitbucket](./3.png)
 
 ## 5. En el servidor GitHub:
 1. Realiza una búsqueda de todos tus repositorios (user:USERNAME)
-![Repos github](./img-4.8/4.png)
+![Repos github](./4.png)
 1. Busca un repositorio tuyo con muchos commits y muestra un par de pantallazos del apartado "Insights", incluyendo el apartado Network
-![Insights](./img-4.8/5.png)
-![Apartado network](./img-4.8/6.png)
+![Insights](./5.png)
+![Apartado network](./6.png)

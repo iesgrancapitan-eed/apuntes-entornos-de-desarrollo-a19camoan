@@ -2,27 +2,27 @@
 
 ## 1. Transforma el directorio actual en un repositorio de Git. Se añade un subdirectorio de .git con todos los archivos necesarios del repositorio.
 
-![ej1](./img-4.3/1.png)
+![ej1](./1.png)
 
 ## 2. Especifica qué archivos quieres añadir al repositorio (a staging area, staged). Prepara los archivos modificados.
 
-![ej2](./img-4.3/2.png)
+![ej2](./2.png)
 
 ## 3. Confirma los cambios (a directorio git, committed).
 
-![ej3](./img-4.3/3.png)
+![ej3](./3.png)
 
 ## 4. Clona un repositorio existente.
 
-![ej4](./img-4.3/4.png)
+![ej4](./4.png)
 
 ## 5. Muestra el estado de los archivos.
 
-![ej5](./img-4.3/5.png)
+![ej5](./5.png)
 
 ## 6. Muestra estado abreviado.
 
-![ej6](./img-4.3/6.png)
+![ej6](./6.png)
 
 ## 7. Ignora archivos.
 
