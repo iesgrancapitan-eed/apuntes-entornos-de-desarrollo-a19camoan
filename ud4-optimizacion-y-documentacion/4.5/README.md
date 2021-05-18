@@ -10,19 +10,19 @@
 ## 4. Extrae clase
 ![Commits bitbucket](./4.png)
 
-## 5. Extrae clase
+## 5. Extrae interface
 ![Commits bitbucket](./5.png)
 
-## 6. Extrae clase
+## 6. Extrae constante
 ![Commits bitbucket](./6.png)
 
-## 7. Extrae clase
+## 7. Extrae método
 ![Commits bitbucket](./7.png)
 
-## 8. Extrae clase
+## 8. Extrae variable local
 ![Commits bitbucket](./8.png)
 
-## 9. Extrae clase
+## 9. Todo en una línea (inlining)
 ![Commits bitbucket](./9.png)
 
 ## 10. Subir/bajar (pull up/push down)
