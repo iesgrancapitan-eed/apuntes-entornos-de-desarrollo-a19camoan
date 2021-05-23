@@ -1,13 +1,8 @@
-# Tarea 4.2 Introduction to GitHub (parte 2)
+## 1. Código original
+[Proyecto](./Test2UML/src/ejercicio5_3)
 
-## Commit your file to the branch.
-![task5](./5.png)
+## 2. Pantallazos del modelo 
+![Proyecto](./1.png)
 
-## Open a pull request to propose your new file to the codebase.
-![task6](./6.png)
-
-## Respond to a PR review.
-![task7](./7.png)
-
-## Make your changes live by merging your PR.
-![task8](./8.png)
+## 3. Proyecto de Eclipse
+[Proyecto](./Test2UML)
