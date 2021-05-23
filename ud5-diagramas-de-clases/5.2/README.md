@@ -1,13 +1,24 @@
-# Tarea 4.2 Introduction to GitHub (parte 2)
+# Genera código a partir de diagramas de clases
 
-## Commit your file to the branch.
-![task5](./5.png)
+# Traza diagramas de clases e identifica los siguientes conceptos. 
 
-## Open a pull request to propose your new file to the codebase.
-![task6](./6.png)
+## Clases. Atributos, métodos y visibilidad.
+![ej1](./1.png)
+La clase es todo el recuadro y su nombre es "Animal".
+sexo y peso son atributos de los cuales peso tiene visibilidad "private" (-) y sexo "public" (+).
+Morder sería el método con visibilidad "public" (+).
 
-## Respond to a PR review.
-![task7](./7.png)
+## Relaciones.
+![ej2](./2.png)
 
-## Make your changes live by merging your PR.
-![task8](./8.png)
+1. Herencia
+![ej2](./3.png)
+
+1. Composición
+![ej2](./4.png)
+
+1. Agregación
+![ej2](./5.png)
+
+1. Asociación
+![ej2](./6.png)
