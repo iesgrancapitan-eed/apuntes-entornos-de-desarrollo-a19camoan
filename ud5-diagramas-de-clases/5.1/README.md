@@ -1,11 +1,20 @@
-## Commit your file to the branch.
-![task5](./1.png)
+## Nueva perspectiva UML Lab.
+![ej1](./1.png)
+![ej1](./2.png)
 
-## Open a pull request to propose your new file to the codebase.
-![task6](./2.png)
+## Visualizar UML Lab Tree.
+![ej2](./3.png)
 
-## Respond to a PR review.
-![task7](./3.png)
+## Cómo crear un proyecto UML Lab de Java.
+![ej3](./4.png)
+![ej3](./5.png)
 
-## Make your changes live by merging your PR.
-![task8](./4.png)
+## Crear una clase con comportamiento y estado (métodos y atributos).
+![ej4](./6.png)
+![ej4](./7.png)
+
+## Generar código de la clase.
+![ej5](./8.png)
+
+## Navegar entre el modelo y el código y viceversa.
+![ej6](./9.png)
